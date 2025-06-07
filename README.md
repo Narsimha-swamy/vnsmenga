@@ -25,7 +25,10 @@ accuracy, and coordinated a multi-agent system employing TURTLEBOT3 Waffle robot
 
 
 
-https://github.com/user-attachments/assets/4320be92-cc03-49bc-9830-031463268de0
+
+<video src="https://github.com/user-attachments/assets/4320be92-cc03-49bc-9830-031463268de0"
+       controls loop muted playsinline width="640"></video>
+
 
 
 
