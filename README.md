@@ -24,7 +24,7 @@ accuracy, and coordinated a multi-agent system employing TURTLEBOT3 Waffle robot
 ### Scripted data Simulation for Trossen AI robot on simulation
 <video src="https://github.com/user-attachments/assets/4320be92-cc03-49bc-9830-031463268de0"
        controls loop muted playsinline width="640"></video>
-      - Made a custom robot manipulation dataset generator using Google DeepMind's MuJoCo Simulation. Integrated with Hydra based CLI arguments for clean and efficient implementation. 
+- Made a custom robot manipulation dataset generator using Google DeepMind's MuJoCo Simulation. Integrated with Hydra based CLI arguments for clean and efficient implementation. 
 
 ### Movie recommender system 
 - Developed L-GCN to evaluate movie-user interactions by encoding nodes and propagating embeddings, achieving 0.8 precision with an inference decoder for unseen movies.
