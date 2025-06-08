@@ -1,7 +1,9 @@
 
 ## Education
-- Master of Science, Robotics  |   University of Minnesota
-- Bachelor of Technology, Mechanical  | Indian Institute of Technology, Jodhpur
+### Master of Science, Robotics  |   University of Minnesota
+### Bachelor of Technology, Mechanical  | Indian Institute of Technology, Jodhpur
+
+  
 ## Work Experience 
 ### Graduate Research Assistant @ Choice Robotics Laboratory, Minneapolis, MN
 - Prototyped and deployed ALOHA, an open-source teleoperated bimanual robot, to perform complex robotic tasks and capture
