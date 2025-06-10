@@ -1,4 +1,4 @@
-
+# Portfolio
 ## Education
 - Master of Science, Robotics  |  University of Minnesota
 - Bachelor of Technology, Mechanical  |  Indian Institute of Technology, Jodhpur
